@@ -11,5 +11,4 @@
   - "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto
 
 
-For any questions or doubts, please contact: [tharunkumar.korinepalli@study.thws.de](mailto:tharunkumar.korinepalli@study.thws.de)
 
